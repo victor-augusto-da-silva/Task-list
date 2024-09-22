@@ -1,7 +1,12 @@
 [
   {
-    "name": "Ir para academia",
-    "status": "em andamento",
-    "createdAt": "2024-09-22T01:36:22.665Z"
+    "name": "Estudar Java Script",
+    "status": "concluída",
+    "createdAt": "2024-09-22T16:49:30.878Z"
+  },
+  {
+    "name": "Estudar Node.Js",
+    "status": "concluída",
+    "createdAt": "2024-09-22T16:54:35.401Z"
   }
 ]
